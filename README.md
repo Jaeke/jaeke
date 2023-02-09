@@ -14,3 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeke&show_icons=true&locale=en" alt="jaeke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaeke&" alt="jaeke" /></p>
+
+<h3>Where to find me</h3>
+<a href="https://www.linkedin.com/in/jake-rc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
