@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
-<p>Welcome to my page, I am a frontend engineer from USA, currently in New York City 
+<p>Welcome to my page, I am a frontend engineer from USA, currently in New York City 🗽
 </p>
 
 
