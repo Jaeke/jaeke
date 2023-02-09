@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jake Chen</h1>
-<h3 align="center">Bringing my culinary background's passion for creative planning and execution to website design with a focus on beauty and functionality.</h3>
 
 - 🔭 I’m currently working on **Dragin.io Platform**
 
