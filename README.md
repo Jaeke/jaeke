@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p>Welcome to my page, I am a frontend engineer from USA, currently in New York City</p>
+<p>Welcome to my page, I am a frontend engineer from USA, currently in New York City ![image](https://user-images.githubusercontent.com/50153471/217876255-61242095-d92f-4328-868e-16a8a40dff9d.png)
+</p>
 
 - 🔭 I’m currently working on **Dragin.io Platform**
 
