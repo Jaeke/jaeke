@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jake Chen</h1>
+<h1 align="center">Hi there 👋</h1>
+
+<p>Welcome to my page, I am a frontend engineer from USA, currently in New York City</p>
 
 - 🔭 I’m currently working on **Dragin.io Platform**
 
